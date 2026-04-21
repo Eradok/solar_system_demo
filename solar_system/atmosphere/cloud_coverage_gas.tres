@@ -1,6 +1,6 @@
-[gd_resource type="Cubemap" script_class="NoiseCubemap" load_steps=3 format=3 uid="uid://do737th4ya3pj"]
+[gd_resource type="Cubemap" script_class="NoiseCubemap" format=3 uid="uid://do737th4ya3pj"]
 
-[ext_resource type="Script" path="res://addons/zylann.atmosphere/noise_cubemap.gd" id="1_m15fo"]
+[ext_resource type="Script" uid="uid://cxarhedbf3j2w" path="res://addons/zylann.atmosphere/noise_cubemap.gd" id="1_m15fo"]
 
 [sub_resource type="FastNoiseLite" id="FastNoiseLite_p3aaq"]
 seed = 1
